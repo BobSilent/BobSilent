@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=HEBXGFW9YKSDJ)
 <!--
+
 **BobSilent/BobSilent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
